@@ -1,7 +1,6 @@
-# JavaScript Bucaramanga
-> Presentación para mi taller de JavaScript en Bucaramanga
+# Let's talk about React
 
-**[View slides](http://jonalvarezz.github.io/bga-js/)**
+**[View slides](http://jonalvarezz.github.io/react-talk/)**
 
 ## View slides locally
 
